@@ -1,0 +1,16 @@
+# Packages used by the TIDE analysis code.
+# Versions are unpinned here. Before archiving the repository, replace this file with the exact
+# versions of the published run:  pip freeze > requirements.txt
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+joblib
+torch
+timm
+nibabel
+SimpleITK
+openpyxl
+tabulate

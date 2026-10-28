@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "TIDE: Tiered IDentifiability Evaluation"
+repository-code: "https://github.com/anuragtiwari575/Tiered-IDentifiability-Evaluation-TIDE-"
+abstract: "Analysis code for measuring patient identifiability retained by frozen brain MRI encoders, resolved by anatomical distance and acquisition separation."
+authors:
+  - family-names: Tiwari
+    given-names: Shailendra
+    orcid: "https://orcid.org/0000-0001-7209-0437"
+# TODO: add co-authors before publishing
+preferred-citation:
+  type: article
+  title: "Distance, Not Time: Anatomical Correspondence Governs Patient Identifiability in Brain MRI Encoders"
+  authors:
+    - family-names: Tiwari
+      given-names: Shailendra
+  year: 2026
+  # TODO: add journal, volume, pages and DOI on acceptance
